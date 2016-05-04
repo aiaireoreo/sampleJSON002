@@ -14,6 +14,7 @@
 		014243231CD98EE3005CC510 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 014243211CD98EE3005CC510 /* LaunchScreen.storyboard */; };
 		0142432E1CD98EE3005CC510 /* sampleJSON002Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0142432D1CD98EE3005CC510 /* sampleJSON002Tests.swift */; };
 		014243391CD98EE3005CC510 /* sampleJSON002UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014243381CD98EE3005CC510 /* sampleJSON002UITests.swift */; };
+		014243471CD98F26005CC510 /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 014243461CD98F26005CC510 /* json.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		014243341CD98EE3005CC510 /* sampleJSON002UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleJSON002UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		014243381CD98EE3005CC510 /* sampleJSON002UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleJSON002UITests.swift; sourceTree = "<group>"; };
 		0142433A1CD98EE3005CC510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		014243461CD98F26005CC510 /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				0142431F1CD98EE3005CC510 /* Assets.xcassets */,
 				014243211CD98EE3005CC510 /* LaunchScreen.storyboard */,
 				014243241CD98EE3005CC510 /* Info.plist */,
+				014243461CD98F26005CC510 /* json.txt */,
 			);
 			path = sampleJSON002;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				014243471CD98F26005CC510 /* json.txt in Resources */,
 				014243231CD98EE3005CC510 /* LaunchScreen.storyboard in Resources */,
 				014243201CD98EE3005CC510 /* Assets.xcassets in Resources */,
 				0142431E1CD98EE3005CC510 /* Main.storyboard in Resources */,
